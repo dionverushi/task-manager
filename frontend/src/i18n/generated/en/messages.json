@@ -1,0 +1,21 @@
+{
+  "input.emailLabel": "Email",
+  "input.passwordLabel": "Password",
+  "loginForm.button": "Login",
+  "registerForm.button": "Register",
+  "input.bussinessNameLabel": "Bussiness name",
+  "input.confirmPasswordLabel": "Confirm password",
+  "loginTab.label": "Sign in",
+  "registerTab.label": "Sign up",
+  "authenticationContainer.title": "Welcome Back!",
+  "authenticationContainer.headline": "Welcome back!Please enter your details!",
+  "schema.invalid.email": "Invalid email",
+  "schema.required.email": "Email is required",
+  "schema.required.password": "Password is required",
+  "schema.minLength.password": "Password must be at least {minLength} characters",
+  "schema.oneUppercaseLetter.password": "Password must contain at least one uppercase letter",
+  "registerSchema.minLength.bussinessName": "Bussiness name must be at least {minLength} charachters",
+  "registerSchema.required.bussinessName": "Business name is required",
+  "registerSchema.invalid.confirmPassword": "Passwords must match",
+  "registerSchema.required.confirmPassword": "Please confirm your password"
+}

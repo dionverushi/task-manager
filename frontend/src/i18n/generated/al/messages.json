@@ -1,0 +1,21 @@
+{
+  "input.emailLabel": "Email",
+  "input.passwordLabel": "Fjalekalimi",
+  "loginForm.button": "Hyr",
+  "registerForm.button": "Regjistrohu",
+  "input.bussinessNameLabel": "Emri i biznesit",
+  "input.confirmPasswordLabel": "Konfirmoni fjalekalimin",
+  "loginTab.label": "Logohu",
+  "registerTab.label": "Regjistrohu",
+  "authenticationContainer.title": "Mire se erdhe!",
+  "authenticationContainer.headline": "Mire se erdhe!Ju lutem plotesoni te dhenat!",
+  "schema.invalid.email": "Email jo i sakte",
+  "schema.required.email": "Email-i eshte i domosdoshem",
+  "schema.required.password": "Password eshte i domosdoshem",
+  "schema.minLength.password": "Password-i duhet te kete te pakten {minLength} karaktere",
+  "schema.oneUppercaseLetter.password": "Password-i duhet te permbaje te pakten nje shkronje te madhe",
+  "registerSchema.minLength.bussinessName": "Emri i biznesit duhet te jete te pakten {minLength} karaktere",
+  "registerSchema.required.bussinessName": "Emri i biznesit eshte i domosdoshem",
+  "registerSchema.invalid.confirmPassword": "Password-et duhet te jene njesoj",
+  "registerSchema.required.confirmPassword": "Ju lutem konfirmoni password-in"
+}

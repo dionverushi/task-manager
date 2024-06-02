@@ -1,0 +1,53 @@
+.status-dashboard {
+  background-color: #ffffff;
+  border-radius: 8px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  padding: 20px;
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 20px;
+  width: 100%;
+}
+.status-dashboard div {
+  display: flex;
+  align-items: center;
+}
+.status-dashboard .label {
+  font-weight: bold;
+  color: #666666;
+  margin-right: 10px;
+}
+.status-dashboard .value {
+  color: #333333;
+}
+.status-dashboard .status .value {
+  background-color: #4caf50;
+  color: white;
+  padding: 5px 10px;
+  border-radius: 20px;
+  display: inline-block;
+}
+.status-dashboard .track-time .value {
+  color: #4caf50;
+}
+.status-dashboard .icon {
+  margin-right: 10px;
+  color: #666666;
+}
+.status-dashboard .empty {
+  color: #999999;
+}
+
+.outer {
+  overflow: hidden;
+  cursor: pointer;
+  transition: transform 0.25s cubic-bezier(0.7, 0.98, 0.86, 0.98);
+}
+
+.outer:hover {
+  transform: scale(0.98);
+}
+
+.assignToMe:hover {
+  cursor: pointer;
+}

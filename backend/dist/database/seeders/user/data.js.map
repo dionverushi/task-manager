@@ -1,0 +1,1 @@
+{"version":3,"file":"data.js","sourceRoot":"","sources":["../../../../src/database/seeders/user/data.ts"],"names":[],"mappings":";;;AAAA,6EAA+D;AAC/D,mEAA0D;AAE7C,QAAA,YAAY,GAAG;IAC1B;QACE,SAAS,EAAE,OAAO;QAClB,QAAQ,EAAE,OAAO;QACjB,KAAK,EAAE,iBAAiB;QACxB,QAAQ,EAAE,8BAAa,CAAC,QAAQ,CAAC,gBAAgB,CAAC;QAClD,IAAI,EAAE,yBAAQ,CAAC,KAAK;KACrB;CACF,CAAC"}
